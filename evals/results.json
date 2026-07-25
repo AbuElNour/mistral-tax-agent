@@ -1,0 +1,161 @@
+{
+  "mode": "deterministic-offline",
+  "cases": 10,
+  "trials": 30,
+  "passed": 30,
+  "success_rate": 1.0,
+  "p50_latency_ms": 0.003,
+  "estimated_cost_usd": 0,
+  "results": [
+    {
+      "case_id": "rate-1",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "rate-1",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "rate-1",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "rate-2",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "rate-2",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "rate-2",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "deadline-1",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "deadline-1",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "deadline-1",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "deadline-2",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "deadline-2",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "deadline-2",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "expense-1",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "expense-1",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "expense-1",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "expense-2",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "expense-2",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "expense-2",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "refuse-1",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "refuse-1",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "refuse-1",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "refuse-2",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "refuse-2",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "refuse-2",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "refuse-3",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "refuse-3",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "refuse-3",
+      "trial": 3,
+      "passed": true
+    },
+    {
+      "case_id": "refuse-4",
+      "trial": 1,
+      "passed": true
+    },
+    {
+      "case_id": "refuse-4",
+      "trial": 2,
+      "passed": true
+    },
+    {
+      "case_id": "refuse-4",
+      "trial": 3,
+      "passed": true
+    }
+  ]
+}
